@@ -1,4 +1,4 @@
-You can compile, package and run this simple java application with the commands below.
+You can compile, package and run this simple java application with the commands below. If hello.jar file and the class files are already created you can delete them.
 
 1. javac src/\*/\*.java   src/\*/\*/\*.java -d classes
 2. cd classes/
